@@ -1,0 +1,48 @@
+.header-container{
+    width: 100vw;
+    height: 10vh;
+    margin: -10px -10px -10px -10px;
+    padding: 2vh;
+    background-color: lightgray;
+}
+
+#blue-box{
+    width: 10vh;
+    height: 10vh;
+    
+    background-color: royalblue;
+}
+
+.paragraph{
+    padding: 50px;
+    font-size: 200%;
+}
+
+.blue-bar{
+    width: 100vw;
+    height: 10vh;
+    margin: -10px -10px -10px -10px;
+    padding: 2vh;
+    background-color: royalblue;
+}
+.teal-bar{
+    width: 100vw;
+    height: 10vh;
+    margin: -10px -10px -10px -10px;
+    padding: 2vh;
+    background-color: turquoise;
+}
+.green-bar{
+    width: 100vw;
+    height: 10vh;
+    margin: -10px -10px -10px -10px;
+    padding: 2vh;
+    background-color: palegreen;
+}
+.yellow-bar{
+    width: 100vw;
+    height: 10vh;
+    margin: -10px -10px -10px -10px;
+    padding: 2vh;
+    background-color: yellow;
+}
